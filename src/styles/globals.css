@@ -1,0 +1,10 @@
+ body  {
+    background-image:url('./../../public/background.jpg')
+ }
+
+ .contenido{
+   font-size: 20pt;
+   text-align: center;
+   color: white;
+   padding-top: 20px;
+ }
